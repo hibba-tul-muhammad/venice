@@ -2,6 +2,7 @@ html{
 height: 100%;
 width: 100%;
 }
+/*First I changed the color of the text depending on its size and I made them all a different font*/
 body {
     background-color:black;
 }
@@ -25,6 +26,7 @@ a{
     color:white;
     text-decoration:none;
 }
+/*This is so that when you hover over the links, they change color and are underlined*/
 a:hover{
     color:gold;
     text-decoration:underline;
